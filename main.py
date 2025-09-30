@@ -25,6 +25,7 @@ def suma(a, b):
     print(suma)
 
 suma(3,40)
+suma(13,10)
 
 
 
